@@ -13,9 +13,10 @@ function App() {
       <Navbar />
       <Box textAlign="center" fontSize="xl">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="about" element={<About />} />
-          <Route path="pricing" element={<Pricing />} />
+            <Route path="/" element={<Home />} />
+            <Route path="about" element={<About />} />
+            <Route path="pricing" element={<Pricing />} />
+            <Route path="*" element={<Home />} />
         </Routes>
       </Box>
       <Footer />
