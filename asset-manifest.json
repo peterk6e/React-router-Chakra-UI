@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/React-router-Chakra-UI/static/js/main.1413d982.js",
+    "main.js": "/React-router-Chakra-UI/static/js/main.d4046501.js",
     "static/js/377.cf0232e3.chunk.js": "/React-router-Chakra-UI/static/js/377.cf0232e3.chunk.js",
     "index.html": "/React-router-Chakra-UI/index.html",
-    "main.1413d982.js.map": "/React-router-Chakra-UI/static/js/main.1413d982.js.map",
+    "main.d4046501.js.map": "/React-router-Chakra-UI/static/js/main.d4046501.js.map",
     "377.cf0232e3.chunk.js.map": "/React-router-Chakra-UI/static/js/377.cf0232e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.1413d982.js"
+    "static/js/main.d4046501.js"
   ]
 }
